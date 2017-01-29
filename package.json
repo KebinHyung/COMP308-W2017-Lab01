@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/KebinHyung/COMP308-W2017-Lesson2REDO#readme",
   "dependencies": {
-    "connect": "^3.5.0"
+    "express": "^4.14.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
